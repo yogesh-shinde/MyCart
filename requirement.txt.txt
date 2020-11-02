@@ -1,0 +1,6 @@
+1] Install sqlalchemy
+
+2] Install MySQL Workbench 8
+
+3] In MyCart.py please change the username & password and table name according to user MySQL.
+   and create table name is project or change according your system. 
